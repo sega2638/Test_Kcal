@@ -1,0 +1,7 @@
+{
+  "name": "Silk Kcal",
+  "description": "A premium food recognition and calorie tracking PWA using Gemini AI for health-conscious users.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
